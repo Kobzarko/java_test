@@ -1,2 +1,6 @@
-Main.java
- qa.com.Main
+test/com/sandbox/Square.java
+ test.com.sandbox.Square
+test/com/sandbox/Rectangle.java
+ test.com.sandbox.Rectangle
+test/com/sandbox/Main.java
+ test.com.sandbox.Main

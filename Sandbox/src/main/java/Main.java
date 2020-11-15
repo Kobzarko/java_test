@@ -1,4 +1,3 @@
-package qa.com;
 
 public class Main {
 
